@@ -208,3 +208,576 @@ LogInit: Object subsystem initialized
 [2019.04.19-00.53.14:135][  0]SourceControl: Source control is disabled
 [2019.04.19-00.53.14:350][  0]SourceControl: Source control is disabled
 [2019.04.19-00.53.14:572][  0]SourceControl: Source control is disabled
+[2019.04.19-00.53.16:714][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.19-00.53.17:539][  0]LogOcInput: OculusInput pre-init called
+[2019.04.19-00.53.18:873][  0]LogEngine: Initializing Engine...
+[2019.04.19-00.53.18:978][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.19-00.53.19:494][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.19-00.53.19:495][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.19-00.53.20:430][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.19-00.53.20:598][  0]LogInit: No audio devices found!
+[2019.04.19-00.53.20:873][  0]LogDerivedDataCache: Saved boot cache 0.27s 93MB C:/Users/w211153223/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2019.04.19-00.53.20:955][  0]LogInit: Texture streaming: Enabled
+[2019.04.19-00.53.21:302][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.19-00.53.22:474][  0]LogInit: Transaction tracking system initialized
+[2019.04.19-00.53.23:651][  0]BlueprintLog: New page: Editor Load
+[2019.04.19-00.53.27:845][  0]LocalizationService: Localization service is disabled
+[2019.04.19-00.53.30:398][  0]LogConsoleResponse: Display: 
+[2019.04.19-00.53.32:796][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w211153223/Documents/GitHub/Big-Chief-Gaming/Adventures_Of_Cletus/AoC/AOC/Content/' took 0.06s
+[2019.04.19-00.53.32:797][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.19-00.53.32:797][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.19-00.53.32:826][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.19-00.53.36:632][  0]SourceControl: Source control is disabled
+[2019.04.19-00.53.36:747][  0]LightingResults: New page: Lighting Build
+[2019.04.19-00.53.37:088][  0]MapCheck: New page: Map Check
+[2019.04.19-00.53.37:088][  0]LightingResults: New page: Lighting Build
+[2019.04.19-00.53.40:279][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.19-00.53.40:984][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.19-00.53.41:329][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.19-00.53.41:437][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 108.43ms to complete.
+[2019.04.19-00.53.41:437][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 4.756
+[2019.04.19-00.53.43:730][  0]LogCollectionManager: Loaded 0 collections in 0.003766 seconds
+[2019.04.19-00.53.43:967][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w211153223/Documents/GitHub/Big-Chief-Gaming/Adventures_Of_Cletus/AoC/AOC/Saved/Collections/' took 0.01s
+[2019.04.19-00.53.43:967][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w211153223/Documents/GitHub/Big-Chief-Gaming/Adventures_Of_Cletus/AoC/AOC/Content/Developers/W211153223/Collections/' took 0.01s
+[2019.04.19-00.53.43:967][  0]LogFileCache: Scanning file cache for directory 'C:/Users/w211153223/Documents/GitHub/Big-Chief-Gaming/Adventures_Of_Cletus/AoC/AOC/Content/Collections/' took 0.01s
+[2019.04.19-00.53.43:967][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.19-00.53.43:999][  0]LogContentBrowser: Native class hierarchy populated in 0.0282 seconds. Added 2386 classes and 500 folders.
+[2019.04.19-00.53.44:170][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.04.19-00.53.44:887][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2019.04.19-00.53.45:045][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.04.19-00.53.45:867][  0]LogSlate: Took 0.026676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.19-00.53.45:897][  0]LogSlate: Took 0.020410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.19-00.53.45:952][  0]LogSlate: Took 0.018240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.19-00.53.46:517][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.04.19-00.53.47:852][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.04.19-00.53.47:853][  0]LogLoad: (Engine Initialization) Total time: 122.15 seconds
+[2019.04.19-00.53.47:853][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.19-00.53.47:878][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2019.04.19-00.53.47:878][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2019.04.19-00.53.48:234][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.19-00.53.48:352][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.19-00.53.49:896][  5]LogAssetRegistry: Asset discovery search completed in 103.6280 seconds
+[2019.04.19-00.53.49:902][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000019 seconds (found 0 objects)
+[2019.04.19-00.53.49:902][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000174 seconds (updated 0 objects)
+[2019.04.19-00.53.50:034][  6]LogSlate: Took 0.024078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.04.19-00.53.52:644][132]LogTemp: Repeating last play command: Simulate
+[2019.04.19-00.53.52:905][132]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.19-00.53.52:905][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-00.53.52:988][132]PIE: New page: SIE session: 2DSideScrollerExampleMap (Apr 18, 2019, 2:53:52 PM)
+[2019.04.19-00.53.52:988][132]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.19-00.53.53:055][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066519s)
+[2019.04.19-00.53.53:056][132]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.19-00.53.53:056][132]LogPlayLevel: PIE: World Init took: (0.001715s)
+[2019.04.19-00.53.53:057][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.068919s)
+[2019.04.19-00.53.53:138][132]LogLoad: Game class is 'Custom2DSideScrollerGameMode_C'
+[2019.04.19-00.53.53:265][132]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.18-19.53.53
+[2019.04.19-00.53.53:279][132]LogWorld: Bringing up level for play took: 0.038527
+[2019.04.19-00.53.53:422][132]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.19-00.53.53:563][132]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2019.04.19-00.53.53:758][132]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.19-00.53.53:761][132]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.19-00.53.53:763][132]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.19-00.53.53:794][132]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.849
+[2019.04.19-00.53.53:851][132]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.19-00.53.53:913][132]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.53:914][132]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:026][133]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:026][133]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:050][134]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:050][134]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:058][135]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:058][135]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:072][136]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:072][136]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:092][137]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:092][137]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:111][138]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:111][138]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:130][139]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:130][139]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:150][140]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:150][140]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:169][141]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:169][141]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:188][142]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:189][142]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:208][143]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:208][143]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:227][144]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:227][144]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:246][145]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:247][145]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:266][146]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:266][146]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:285][147]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:285][147]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:305][148]LogScript: Warning: Accessed None trying to read property CallFunc_GetController_ReturnValue
+	Cletus_C /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerCharacter_1955
+	Function /Game/2DSideScrollerBP/Blueprints/Cletus.Cletus_C:ExecuteUbergraph_Cletus:06F1
+[2019.04.19-00.53.54:305][148]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:324][149]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:344][150]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:363][151]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:383][152]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:402][153]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:423][154]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:442][155]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:462][156]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:481][157]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:502][158]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:523][159]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:542][160]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:561][161]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:580][162]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:600][163]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:620][164]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:639][165]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:659][166]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:678][167]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:699][168]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:719][169]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:739][170]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:758][171]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:780][172]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:804][173]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.53.54:825][174]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.25:348][252]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.19-00.57.25:397][252]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.19-00.57.41:630][ 63]LogTemp: Repeating last play command: Simulate
+[2019.04.19-00.57.41:651][ 63]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.19-00.57.41:651][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-00.57.41:651][ 63]PIE: New page: SIE session: 2DSideScrollerExampleMap (Apr 18, 2019, 2:57:41 PM)
+[2019.04.19-00.57.41:651][ 63]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.19-00.57.41:656][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004283s)
+[2019.04.19-00.57.41:656][ 63]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.19-00.57.41:656][ 63]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2019.04.19-00.57.41:656][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005185s)
+[2019.04.19-00.57.41:701][ 63]LogLoad: Game class is 'Custom2DSideScrollerGameMode_C'
+[2019.04.19-00.57.41:704][ 63]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.18-19.57.41
+[2019.04.19-00.57.41:705][ 63]LogWorld: Bringing up level for play took: 0.002475
+[2019.04.19-00.57.41:705][ 63]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.19-00.57.41:708][ 63]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.19-00.57.41:708][ 63]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.19-00.57.41:709][ 63]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.19-00.57.41:709][ 63]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.24
+[2019.04.19-00.57.41:712][ 63]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.19-00.57.41:713][ 63]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.41:727][ 64]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.41:734][ 65]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.41:749][ 66]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.41:767][ 67]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.41:787][ 68]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.41:806][ 69]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.41:825][ 70]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.41:844][ 71]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.41:864][ 72]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.41:884][ 73]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.41:904][ 74]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.41:922][ 75]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.41:941][ 76]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.41:963][ 77]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.41:983][ 78]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:003][ 79]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:022][ 80]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:042][ 81]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:062][ 82]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:082][ 83]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:103][ 84]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:123][ 85]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:143][ 86]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:163][ 87]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:183][ 88]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:203][ 89]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:223][ 90]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:242][ 91]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:262][ 92]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:282][ 93]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.57.42:305][ 94]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-00.58.13:625][737]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.19-00.58.13:674][737]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.19-01.05.14:782][544]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.04.19-01.05.15:331][544]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.19-01.05.15:705][544]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2019.04.19-01.05.17:396][544]LogSlate: Took 0.000485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2019.04.19-01.05.17:413][544]LogSlate: Took 0.016317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.19-01.07.15:289][978]LogSlate: Took 0.022021 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.19-01.08.28:271][367]LogSlate: Took 0.018948 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.19-01.08.34:854][675]LogTemp: Repeating last play command: Simulate
+[2019.04.19-01.08.34:879][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.19-01.08.34:879][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.19-01.08.34:879][675]PIE: New page: SIE session: 2DSideScrollerExampleMap (Apr 18, 2019, 3:08:34 PM)
+[2019.04.19-01.08.34:879][675]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.04.19-01.08.34:883][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004012s)
+[2019.04.19-01.08.34:884][675]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.04.19-01.08.34:884][675]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2019.04.19-01.08.34:884][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005009s)
+[2019.04.19-01.08.35:024][675]LogLoad: Game class is 'Custom2DSideScrollerGameMode_C'
+[2019.04.19-01.08.35:033][675]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2019.04.18-20.08.35
+[2019.04.19-01.08.35:034][675]LogWorld: Bringing up level for play took: 0.007084
+[2019.04.19-01.08.35:035][675]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.19-01.08.35:041][675]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.19-01.08.35:042][675]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.19-01.08.35:044][675]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.04.19-01.08.35:044][675]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.082
+[2019.04.19-01.08.35:048][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.19-01.08.35:050][675]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:101][676]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:129][677]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:157][678]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:198][679]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:245][680]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:279][681]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:312][682]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:340][683]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:349][684]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:358][685]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:368][686]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:387][687]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:407][688]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:426][689]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:446][690]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:465][691]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:527][692]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:554][693]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:581][694]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:607][695]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:650][696]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.04.19-01.08.35:871][696]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.35:965][697]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.36:210][698]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.36:243][699]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.36:264][700]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.36:278][701]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.36:290][702]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.36:310][703]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.36:333][704]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.36:354][705]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.36:377][706]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.36:399][707]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.36:421][708]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.36:443][709]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.36:466][710]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.08.36:488][711]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetController_ReturnValue from function: 'ExecuteUbergraph_Cletus' from node: Set Control Rotation in graph: EventGraph in object: Cletus with description: Accessed None trying to read property CallFunc_GetController_ReturnValue
+[2019.04.19-01.10.19:591][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.19-01.10.19:638][116]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.04.19-01.47.13:053][962]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.19-01.47.13:343][963]Cmd: QUIT_EDITOR
+[2019.04.19-01.47.14:032][963]LogExit: Preparing to exit.
+[2019.04.19-01.47.15:376][963]LogDirectoryWatcher: A directory notification for 'C:/Users/w211153223/Documents/GitHub/Big-Chief-Gaming/Adventures_Of_Cletus/AoC/AOC/Content/' was aborted.
+[2019.04.19-01.47.15:482][963]LogExit: Editor shut down
+[2019.04.19-01.47.15:504][963]LogExit: Transaction tracking system shut down
+[2019.04.19-01.47.15:754][963]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.04.19-01.47.15:754][963]LogDirectoryWatcher: A directory notification for '../../../../../../Users/w211153223/Documents/GitHub/Big-Chief-Gaming/Adventures_Of_Cletus/AoC/AOC/Content/' was aborted.
+[2019.04.19-01.47.15:754][963]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2019.04.19-01.47.15:754][963]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.04.19-01.47.15:754][963]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.04.19-01.47.16:422][963]LogExit: Object subsystem successfully closed.
+[2019.04.19-01.47.16:515][963]LogD3D11RHI: Shutdown
+[2019.04.19-01.47.16:515][963]LogD3D11RHI: CleanupD3DDevice
+[2019.04.19-01.47.16:606][963]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.19-01.47.16:909][963]LogModuleManager: Shutting down and abandoning module SequencerWidgets (538)
+[2019.04.19-01.47.16:909][963]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2019.04.19-01.47.16:909][963]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2019.04.19-01.47.16:915][963]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2019.04.19-01.47.16:915][963]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2019.04.19-01.47.16:915][963]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2019.04.19-01.47.16:915][963]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2019.04.19-01.47.16:915][963]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2019.04.19-01.47.16:919][963]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2019.04.19-01.47.16:919][963]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2019.04.19-01.47.16:919][963]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2019.04.19-01.47.16:920][963]LogDirectoryWatcher: A directory notification for 'C:/Users/w211153223/Documents/GitHub/Big-Chief-Gaming/Adventures_Of_Cletus/AoC/AOC/Content/Collections/' was aborted.
+[2019.04.19-01.47.16:920][963]LogDirectoryWatcher: A directory notification for 'C:/Users/w211153223/Documents/GitHub/Big-Chief-Gaming/Adventures_Of_Cletus/AoC/AOC/Content/Developers/W211153223/Collections/' was aborted.
+[2019.04.19-01.47.16:920][963]LogDirectoryWatcher: A directory notification for 'C:/Users/w211153223/Documents/GitHub/Big-Chief-Gaming/Adventures_Of_Cletus/AoC/AOC/Saved/Collections/' was aborted.
+[2019.04.19-01.47.16:921][963]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2019.04.19-01.47.16:922][963]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2019.04.19-01.47.16:922][963]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2019.04.19-01.47.16:923][963]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2019.04.19-01.47.16:923][963]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2019.04.19-01.47.16:923][963]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2019.04.19-01.47.16:923][963]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2019.04.19-01.47.16:923][963]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2019.04.19-01.47.16:924][963]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2019.04.19-01.47.16:924][963]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2019.04.19-01.47.16:924][963]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2019.04.19-01.47.16:924][963]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2019.04.19-01.47.16:924][963]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2019.04.19-01.47.16:924][963]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2019.04.19-01.47.16:924][963]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2019.04.19-01.47.16:925][963]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2019.04.19-01.47.16:925][963]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2019.04.19-01.47.16:926][963]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2019.04.19-01.47.16:926][963]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2019.04.19-01.47.16:926][963]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2019.04.19-01.47.16:926][963]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2019.04.19-01.47.16:926][963]LogModuleManager: Shutting down and abandoning module Media (477)
+[2019.04.19-01.47.16:926][963]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2019.04.19-01.47.16:926][963]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2019.04.19-01.47.16:926][963]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2019.04.19-01.47.16:926][963]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2019.04.19-01.47.16:926][963]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2019.04.19-01.47.16:926][963]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2019.04.19-01.47.16:926][963]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2019.04.19-01.47.16:927][963]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2019.04.19-01.47.16:927][963]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2019.04.19-01.47.16:942][963]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2019.04.19-01.47.16:942][963]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2019.04.19-01.47.16:961][963]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2019.04.19-01.47.16:973][963]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2019.04.19-01.47.16:973][963]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2019.04.19-01.47.16:973][963]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2019.04.19-01.47.16:973][963]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2019.04.19-01.47.17:133][963]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2019.04.19-01.47.17:133][963]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2019.04.19-01.47.17:133][963]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2019.04.19-01.47.17:133][963]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2019.04.19-01.47.17:156][963]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2019.04.19-01.47.17:157][963]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2019.04.19-01.47.17:157][963]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2019.04.19-01.47.17:157][963]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2019.04.19-01.47.17:157][963]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2019.04.19-01.47.17:158][963]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2019.04.19-01.47.17:159][963]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2019.04.19-01.47.17:159][963]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2019.04.19-01.47.17:159][963]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2019.04.19-01.47.17:159][963]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2019.04.19-01.47.17:159][963]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2019.04.19-01.47.17:159][963]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2019.04.19-01.47.17:159][963]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2019.04.19-01.47.17:160][963]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2019.04.19-01.47.17:160][963]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2019.04.19-01.47.17:161][963]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2019.04.19-01.47.17:173][963]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2019.04.19-01.47.17:173][963]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2019.04.19-01.47.17:187][963]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2019.04.19-01.47.17:187][963]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2019.04.19-01.47.17:254][963]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2019.04.19-01.47.17:254][963]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2019.04.19-01.47.17:305][963]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2019.04.19-01.47.17:314][963]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2019.04.19-01.47.17:314][963]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2019.04.19-01.47.17:315][963]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2019.04.19-01.47.17:316][963]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2019.04.19-01.47.17:320][963]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2019.04.19-01.47.17:320][963]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2019.04.19-01.47.17:320][963]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2019.04.19-01.47.17:341][963]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2019.04.19-01.47.17:342][963]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2019.04.19-01.47.17:342][963]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2019.04.19-01.47.17:354][963]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2019.04.19-01.47.17:374][963]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2019.04.19-01.47.17:375][963]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2019.04.19-01.47.17:396][963]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2019.04.19-01.47.17:397][963]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2019.04.19-01.47.17:397][963]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2019.04.19-01.47.17:397][963]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2019.04.19-01.47.17:397][963]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2019.04.19-01.47.17:398][963]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2019.04.19-01.47.17:398][963]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2019.04.19-01.47.17:398][963]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2019.04.19-01.47.17:399][963]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2019.04.19-01.47.17:399][963]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2019.04.19-01.47.17:399][963]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2019.04.19-01.47.17:399][963]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2019.04.19-01.47.17:399][963]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2019.04.19-01.47.17:399][963]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2019.04.19-01.47.17:399][963]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2019.04.19-01.47.17:550][963]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2019.04.19-01.47.17:551][963]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2019.04.19-01.47.17:551][963]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2019.04.19-01.47.17:551][963]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2019.04.19-01.47.17:551][963]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2019.04.19-01.47.17:552][963]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2019.04.19-01.47.17:552][963]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2019.04.19-01.47.17:552][963]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2019.04.19-01.47.17:552][963]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2019.04.19-01.47.17:552][963]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2019.04.19-01.47.17:552][963]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2019.04.19-01.47.17:555][963]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2019.04.19-01.47.17:555][963]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2019.04.19-01.47.17:556][963]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2019.04.19-01.47.17:556][963]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2019.04.19-01.47.17:556][963]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2019.04.19-01.47.17:557][963]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2019.04.19-01.47.17:557][963]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2019.04.19-01.47.17:570][963]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2019.04.19-01.47.17:571][963]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2019.04.19-01.47.17:571][963]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2019.04.19-01.47.17:571][963]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2019.04.19-01.47.17:571][963]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2019.04.19-01.47.17:571][963]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2019.04.19-01.47.17:571][963]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2019.04.19-01.47.17:571][963]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2019.04.19-01.47.17:572][963]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2019.04.19-01.47.17:572][963]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2019.04.19-01.47.17:572][963]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2019.04.19-01.47.17:572][963]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2019.04.19-01.47.17:572][963]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2019.04.19-01.47.17:572][963]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.04.19-01.47.17:575][963]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.04.19-01.47.17:575][963]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2019.04.19-01.47.17:575][963]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2019.04.19-01.47.17:577][963]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2019.04.19-01.47.17:577][963]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2019.04.19-01.47.17:577][963]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2019.04.19-01.47.17:577][963]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2019.04.19-01.47.17:577][963]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2019.04.19-01.47.17:577][963]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2019.04.19-01.47.17:577][963]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2019.04.19-01.47.17:577][963]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2019.04.19-01.47.17:678][963]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2019.04.19-01.47.17:779][963]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2019.04.19-01.47.17:779][963]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2019.04.19-01.47.17:779][963]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2019.04.19-01.47.17:779][963]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2019.04.19-01.47.17:780][963]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2019.04.19-01.47.17:780][963]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2019.04.19-01.47.17:782][963]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2019.04.19-01.47.17:782][963]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2019.04.19-01.47.17:782][963]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2019.04.19-01.47.17:782][963]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2019.04.19-01.47.17:784][963]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2019.04.19-01.47.17:784][963]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2019.04.19-01.47.17:818][963]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2019.04.19-01.47.17:829][963]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2019.04.19-01.47.17:830][963]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2019.04.19-01.47.17:830][963]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2019.04.19-01.47.17:830][963]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2019.04.19-01.47.17:844][963]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2019.04.19-01.47.17:845][963]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2019.04.19-01.47.17:845][963]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2019.04.19-01.47.17:867][963]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2019.04.19-01.47.17:867][963]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2019.04.19-01.47.17:867][963]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2019.04.19-01.47.17:867][963]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2019.04.19-01.47.17:868][963]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2019.04.19-01.47.17:868][963]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2019.04.19-01.47.17:868][963]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2019.04.19-01.47.17:868][963]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2019.04.19-01.47.17:881][963]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2019.04.19-01.47.17:881][963]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2019.04.19-01.47.17:892][963]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2019.04.19-01.47.17:893][963]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2019.04.19-01.47.17:893][963]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2019.04.19-01.47.17:911][963]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2019.04.19-01.47.17:911][963]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2019.04.19-01.47.17:911][963]LogModuleManager: Shutting down and abandoning module Core (168)
+[2019.04.19-01.47.17:911][963]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2019.04.19-01.47.17:911][963]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2019.04.19-01.47.17:911][963]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2019.04.19-01.47.17:937][963]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2019.04.19-01.47.17:938][963]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2019.04.19-01.47.17:938][963]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2019.04.19-01.47.17:948][963]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2019.04.19-01.47.17:948][963]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2019.04.19-01.47.17:948][963]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2019.04.19-01.47.17:948][963]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2019.04.19-01.47.17:952][963]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2019.04.19-01.47.18:034][963]LogDerivedDataCache: Shutdown
+[2019.04.19-01.47.18:040][963]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2019.04.19-01.47.18:040][963]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2019.04.19-01.47.18:066][963]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2019.04.19-01.47.18:082][963]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2019.04.19-01.47.18:105][963]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2019.04.19-01.47.18:105][963]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2019.04.19-01.47.18:130][963]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2019.04.19-01.47.18:131][963]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2019.04.19-01.47.18:131][963]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2019.04.19-01.47.18:153][963]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2019.04.19-01.47.18:153][963]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2019.04.19-01.47.18:153][963]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2019.04.19-01.47.18:153][963]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2019.04.19-01.47.18:153][963]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2019.04.19-01.47.18:153][963]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2019.04.19-01.47.18:153][963]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2019.04.19-01.47.18:153][963]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2019.04.19-01.47.18:153][963]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2019.04.19-01.47.18:153][963]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2019.04.19-01.47.18:153][963]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2019.04.19-01.47.18:153][963]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2019.04.19-01.47.18:153][963]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2019.04.19-01.47.18:154][963]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2019.04.19-01.47.18:178][963]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2019.04.19-01.47.18:178][963]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.04.19-01.47.18:178][963]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.04.19-01.47.18:178][963]LogOnline: Display: Unloading online subsystem: NULL
+[2019.04.19-01.47.18:225][963]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.04.19-01.47.18:248][963]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.04.19-01.47.18:248][963]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.19-01.47.18:261][963]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFB1120DE-4F2F-9199-75A7-C9A827D76A3E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=467c39a4443e444f11f9aaa9e64871dd%7C5f814b9d68b845e5aac0d84fad88a140%7Cc959ae0e-7383-4657-93a4-a7638f399390&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.19-01.47.18:292][963]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.04.19-01.47.18:317][963]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.19-01.47.18:352][963]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.19-01.47.18:352][963]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.19-01.47.18:353][963]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.19-01.47.18:353][963]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.19-01.47.18:353][963]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.19-01.47.18:353][963]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.19-01.47.18:382][963]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.19-01.47.18:394][963]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.19-01.47.18:394][963]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.19-01.47.18:394][963]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.19-01.47.18:394][963]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.19-01.47.18:394][963]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.19-01.47.18:394][963]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.19-01.47.18:394][963]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.19-01.47.18:394][963]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.19-01.47.18:394][963]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.19-01.47.18:394][963]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.19-01.47.18:407][963]LogExit: Exiting.
+[2019.04.19-01.47.18:455][963]Log file closed, 04/18/19 20:47:18
