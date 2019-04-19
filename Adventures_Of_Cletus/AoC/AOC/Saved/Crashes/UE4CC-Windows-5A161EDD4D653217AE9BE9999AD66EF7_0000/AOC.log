@@ -192,25 +192,3 @@ LogInit: Object subsystem initialized
 [2019.04.16-22.57.21:990][  0]LogLinker: Warning: The file '../../../Engine/Content/VREditor/ViewportInteractionAssetContainerData.uasset' contains unrecognizable data, check that it is of the expected type.
 [2019.04.16-22.57.21:991][  0]LogLinker: Warning: The file '../../../Engine/Content/VREditor/ViewportInteractionAssetContainerData.uasset' contains unrecognizable data, check that it is of the expected type.
 [2019.04.16-22.57.21:991][  0]LogUObjectGlobals: Warning: Failed to find object 'ViewportInteractionAssetContainer None./Engine/VREditor/ViewportInteractionAssetContainerData'
-[2019.04.16-22.57.22:608][  0]LogWindows: Error: === Critical error: ===
-[2019.04.16-22.57.22:608][  0]LogWindows: Error: 
-[2019.04.16-22.57.22:608][  0]LogWindows: Error: Fatal error!
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: 
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x000000e0
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: 
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: UE4Editor-ViewportInteraction.dll!0x000000000D366CBA
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: UE4Editor-CoreUObject.dll!0x0000000003EDA182
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: UE4Editor-CoreUObject.dll!0x00000000041433DB
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: UE4Editor-CoreUObject.dll!0x0000000004126E03
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: UE4Editor.exe!0x00000000E002A3E8
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: UE4Editor.exe!0x00000000E002379A
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: UE4Editor.exe!0x00000000E00239EA
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: UE4Editor.exe!0x00000000E00302D9
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: UE4Editor.exe!0x00000000E0031C47
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: KERNEL32.DLL!0x0000000039062784
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: ntdll.dll!0x000000003B5B0C51
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: ntdll.dll!0x000000003B5B0C51
-[2019.04.16-22.57.22:609][  0]LogWindows: Error: 
-[2019.04.16-22.57.22:618][  0]LogExit: Executing StaticShutdownAfterError
-[2019.04.16-22.57.22:620][  0]LogWindows: FPlatformMisc::RequestExit(1)
-[2019.04.16-22.57.22:620][  0]Log file closed, 04/16/19 17:57:22

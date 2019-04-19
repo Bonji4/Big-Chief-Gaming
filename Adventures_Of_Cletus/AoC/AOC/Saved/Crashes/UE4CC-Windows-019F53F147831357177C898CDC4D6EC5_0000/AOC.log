@@ -1,0 +1,194 @@
+﻿Log file open, 04/16/19 17:56:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: AOC
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1102569843) SRandInit(1102569843).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.560668
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.16-22.56.21:508][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.16-22.56.21:508][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.16-22.56.21:537][  0]LogInit: Computer: SW-WLC124-18
+[2019.04.16-22.56.21:537][  0]LogInit: User: W211153223
+[2019.04.16-22.56.21:537][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.16-22.56.21:537][  0]LogInit: High frequency timer resolution =3.312658 MHz
+[2019.04.16-22.56.21:537][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.16-22.56.21:537][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.16-22.56.21:537][  0]LogMemory: Process Physical Memory: 282.39 MB used, 282.39 MB peak
+[2019.04.16-22.56.21:537][  0]LogMemory: Process Virtual Memory: 287.69 MB used, 287.69 MB peak
+[2019.04.16-22.56.21:537][  0]LogMemory: Physical Memory: 4041.97 MB used,  12284.13 MB free, 16326.10 MB total
+[2019.04.16-22.56.21:538][  0]LogMemory: Virtual Memory: 715.51 MB used,  12284.13 MB free, 134217728.00 MB total
+[2019.04.16-22.56.22:355][  0]LogInit: Using OS detected language (en-US).
+[2019.04.16-22.56.22:355][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.16-22.56.22:376][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.16-22.56.23:561][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.16-22.56.23:628][  0]LogD3D11RHI:    0. 'AMD Radeon HD 8570' (Feature Level 11_0)
+[2019.04.16-22.56.23:628][  0]LogD3D11RHI:       1005/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.04.16-22.56.23:632][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.16-22.56.23:632][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.16-22.56.23:632][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.16-22.56.23:820][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.16-22.56.23:820][  0]LogD3D11RHI:     GPU DeviceId: 0x6611 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.16-22.56.23:820][  0]LogWindows: EnumDisplayDevices:
+[2019.04.16-22.56.23:821][  0]LogWindows:    0. 'AMD Radeon HD 8570' (P:1 D:1)
+[2019.04.16-22.56.23:821][  0]LogWindows:    1. 'AMD Radeon HD 8570' (P:0 D:0)
+[2019.04.16-22.56.23:822][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2019.04.16-22.56.23:822][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 8570
+[2019.04.16-22.56.23:822][  0]LogD3D11RHI:   Driver Version: Crimson 16.6 (internal:21.19.144.32768, unified:21.19.144.32768)
+[2019.04.16-22.56.23:822][  0]LogD3D11RHI:      Driver Date: 10-25-2016
+[2019.04.16-22.56.23:822][  0]LogRHI: Texture pool is 703 MB (70% of 1005 MB)
+[2019.04.16-22.56.23:865][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.16-22.56.23:935][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.04.16-22.56.23:960][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Users/w211153223/Documents/GitHub/Big-Chief-Gaming/Adventures_Of_Cletus/AoC/AOC/Intermediate/Shaders/WorkingDirectory/7648/).
+[2019.04.16-22.56.23:960][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/w211153223/AppData/Local/Temp/UnrealShaderWorkingDir/338011A94479FBFE940154BB9C0D26BD/'.
+[2019.04.16-22.56.23:961][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.16-22.56.25:559][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.16-22.56.25:642][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.16-22.56.25:726][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.16-22.56.25:812][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.16-22.56.25:897][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.16-22.56.25:982][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.16-22.56.26:066][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.16-22.56.26:150][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.16-22.56.26:227][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.16-22.56.26:310][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.16-22.56.26:394][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.04.16-22.56.26:476][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.04.16-22.56.26:559][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.04.16-22.56.26:643][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.04.16-22.56.26:726][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.04.16-22.56.26:892][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.04.16-22.56.26:892][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.04.16-22.56.26:963][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.16-22.56.27:127][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.16-22.56.27:174][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.16-22.56.27:258][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.16-22.56.27:340][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.16-22.56.27:422][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.16-22.56.27:512][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.16-22.56.27:512][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.16-22.56.28:765][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.16-22.56.28:765][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2019.04.16-22.56.28:765][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/w211153223/Documents/GitHub/Big-Chief-Gaming/Adventures_Of_Cletus/AoC/AOC/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.16-22.56.28:765][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.16-22.56.28:765][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/w211153223/Documents/GitHub/Big-Chief-Gaming/Adventures_Of_Cletus/AoC/AOC/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.16-22.56.28:765][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.16-22.56.28:800][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.16-22.56.28:813][  0]LogDerivedDataCache: Using Local data cache path C:/Users/w211153223/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.16-22.56.28:852][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.16-22.56.28:869][  0]LogSlate: Using Freetype 2.6.0
+[2019.04.16-22.56.28:874][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.16-22.56.28:875][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.16-22.56.30:888][  0]LogAssetRegistry: FAssetRegistry took 0.0503 seconds to start up
+[2019.04.16-22.56.31:018][  0]LogLinker: Warning: The file '../../../Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.04.16-22.56.31:020][  0]LogLinker: Warning: The file '../../../Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.04.16-22.56.31:020][  0]LogUObjectGlobals: Warning: Failed to find object 'TextureCube /Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1'
+[2019.04.16-22.56.31:129][  0]LogLinker: Warning: The file '../../../Engine/Content/VREditor/ViewportInteractionAssetContainerData.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.04.16-22.56.31:130][  0]LogLinker: Warning: The file '../../../Engine/Content/VREditor/ViewportInteractionAssetContainerData.uasset' contains unrecognizable data, check that it is of the expected type.
+[2019.04.16-22.56.31:130][  0]LogUObjectGlobals: Warning: Failed to find object 'ViewportInteractionAssetContainer None./Engine/VREditor/ViewportInteractionAssetContainerData'
